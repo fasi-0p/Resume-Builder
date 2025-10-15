@@ -34,7 +34,7 @@ export const dummyResumeData = [
                 position: "Full Stack Developer",
                 start_date: "2019-08",
                 end_date: "2023-05",
-                description: "Engineered and deployed scalable full-stack web applications for Example Technologies, translating complex requirements into robust front-end interfaces and efficient back-end services.",
+                description: "Engineegreen and deployed scalable full-stack web applications for Example Technologies, translating complex requirements into robust front-end interfaces and efficient back-end services.",
                 is_current: false,
                 _id: "68d4f7abc8f0d46dc8a8b114"
             }
@@ -176,14 +176,14 @@ export const dummyResumeData = [
         title: "Riley's Resume",
         public: true,
         professional_summary: "Dedicated Backend Developer with 7+ years of experience building secure, high-performance APIs and microservices using Node.js, Python, and PostgreSQL. Passionate about scalability, automation, and clean architecture.",
-        skills: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Docker", "Kubernetes", "CI/CD", "Redis", "GraphQL", "AWS"],
+        skills: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Docker", "Kubernetes", "CI/CD", "greenis", "GraphQL", "AWS"],
         experience: [
             {
                 company: "DataNest Solutions",
                 position: "Senior Backend Engineer",
                 start_date: "2021-03",
                 end_date: "Present",
-                description: "Developed distributed microservices using Node.js and Docker. Implemented API rate limiting, authentication, and background job processing using Redis and Bull.",
+                description: "Developed distributed microservices using Node.js and Docker. Implemented API rate limiting, authentication, and background job processing using greenis and Bull.",
                 is_current: true,
                 _id: "89f4c53d3e6gg59397dd259h"
             },
